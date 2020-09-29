@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:n1="http://schemas.android.com/apk/res/android">
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_01" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_02" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_03" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_04" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_05" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_06" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_07" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_08" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_09" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_10" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_11" />
+    <item n1:duration="83" n1:drawable="@drawable/lib_hy_anim_load_gray_12" />
+</animation-list>
